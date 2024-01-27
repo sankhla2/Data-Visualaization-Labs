@@ -1,0 +1,37 @@
+Stop,Longitude,Latitude,Destination,Type,Connected,Verified
+Aksu,79.835596,37.076351,Egypt,Desert,"Kuqa, Rybachye",Yes
+Aleppo,37.111216,36.240739,Rome,Western Waypoints,Baghdad,Yes
+Almaty,76.968079,43.221763,Rome,Mountains,Yining,Yes
+Antioch,36.176563,35.69611,Rome,End,Aleppo,Yes
+Ashgabat,58.440529,37.89176,Rome,Western Waypoints,Merv,Yes
+Baghdad,43.971642,33.192107,Rome,Western Waypoints,Tehran,Yes
+Baoji,106.820901,34.885488,Egypt,Eastern Waypoints,"Pingliang, Chang'an",Yes
+Bukhara,64.397865,39.622669,Rome,Western Waypoints,Samarkana,Yes
+Chang'an,108.941091,34.293616,All,Start,,Yes
+Damascus,36.341135,33.5716,Egypt,Western Waypoints,Baghdad,Yes
+Dunhuang,94.586888,40.863301,All,Eastern Waypoints,Jiayuguan,Yes
+Hami,93.510142,42.786278,Rome,Desert,"Dunhuang, Turpan",Yes
+Hotian,79.835596,37.076351,India,Desert,"New Delhi, Qiemo",Yes
+Jiayuguan,94.487796,40.760824,All,Eastern Waypoints,Zhangye,Yes
+Kashgar,76.006432,39.465498,Egypt,Desert,"Tashkurgan, Hotian, Aksu",Yes
+Korla,86.154366,41.865225,Egypt,Desert,Turpan,Yes
+Kuqa,82.975026,41.618276,Egypt,Desert,Korla,Yes
+Lanzhou,103.803902,36.067706,Silk Road,Eastern Waypoints,Pingliang,Yes
+Longxi,104.490061,34.919821,India,Eastern Waypoints,Tianshui,Yes
+Loulan,89.505539,41.053477,Egypt,Desert,"Qiemo, Korla, Turpan, Dunhuang",Yes
+Merv,62.189377,37.326288,Rome,Western Waypoints,Bukhara,Yes
+New Delhi,77.448388,28.713035,India,End,,Yes
+Pingliang,106.690288,35.564416,Rome,Eastern Waypoints,Chang'an,Yes
+Qiemo,85.369187,38.579048,India,Desert,Dunhuang,Yes
+Rybachye,76.263667,42.471411,Rome,Mountains,Almaty,Yes
+Samarkana,66.988631,39.561511,Rome,Mountains,"Rybachye, Kashgar",Yes
+Tashkurgan,75.296955,37.764958,Silk Road,Desert,,Yes
+Tehran,51.498071,35.705197,Rome,Western Waypoints,Ashgabat,Yes
+Tianshui,105.742953,34.586281,India,Eastern Waypoints,Baoji,Yes
+Turpan,89.308129,42.822235,Silk Road,Desert,,Yes
+Tyre,35.604287,33.899367,Egypt,End,Damascus,Yes
+Urumqi,87.703781,43.802085,Rome,Desert,Hami,Yes
+Wuwei,102.837363,38.271116,Rome,Eastern Waypoints,"Lanzhou, Pingliang",Yes
+Xining,101.836405,36.62966,India,Eastern Waypoints,"Lanzhou, Longxi",Yes
+Yining,81.37806,43.983994,Rome,Mountains,Urumqi,Yes
+Zhangye,100.447836,38.953513,All,Eastern Waypoints,"Xining, Wuwei",Yes
